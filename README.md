@@ -35,6 +35,9 @@ The outer area can crop differently across mobile, desktop, and TV surfaces. Kee
 - YouTube banner template downloads: https://imagesizekit.com/youtube-banner-template/
 - YouTube banner size guide: https://imagesizekit.com/youtube-banner-size/
 - Browser banner checker: https://imagesizekit.com/banner-size-checker/
+- Social media image checker: https://imagesizekit.com/social-media-image-checker/
+- Open Graph preview checker: https://imagesizekit.com/open-graph-preview-checker/
+- Image dimension checker: https://imagesizekit.com/image-dimension-checker/
 
 ## Privacy note
 
