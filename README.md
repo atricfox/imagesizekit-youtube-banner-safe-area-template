@@ -30,6 +30,7 @@ The outer area can crop differently across mobile, desktop, and TV surfaces. Kee
 
 ## Use with ImageSizeKit
 
+- Image size template hub: https://imagesizekit.com/templates/
 - YouTube banner safe area guide: https://imagesizekit.com/youtube-banner-safe-area/
 - YouTube banner template downloads: https://imagesizekit.com/youtube-banner-template/
 - YouTube banner size guide: https://imagesizekit.com/youtube-banner-size/
