@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="2560" height="1440" viewBox="0 0 2560 1440" role="img" aria-labelledby="title desc">
+  <title id="title">YouTube banner safe area template 2560 x 1440 dark</title>
+  <desc id="desc">Dark YouTube banner template with a centered 1546 x 423 safe area guide.</desc>
+  <rect width="2560" height="1440" fill="#0f172a"/>
+  <rect x="0" y="0" width="2560" height="1440" fill="none" stroke="#38bdf8" stroke-width="16"/>
+  <rect x="507" y="508.5" width="1546" height="423" fill="#7f1d1d" fill-opacity="0.55" stroke="#fb7185" stroke-width="16"/>
+  <line x1="507" y1="0" x2="507" y2="1440" stroke="#64748b" stroke-width="8" stroke-dasharray="36 28"/>
+  <line x1="2053" y1="0" x2="2053" y2="1440" stroke="#64748b" stroke-width="8" stroke-dasharray="36 28"/>
+  <line x1="0" y1="508.5" x2="2560" y2="508.5" stroke="#475569" stroke-width="6" stroke-dasharray="32 24"/>
+  <line x1="0" y1="931.5" x2="2560" y2="931.5" stroke="#475569" stroke-width="6" stroke-dasharray="32 24"/>
+  <text x="96" y="132" fill="#e2e8f0" font-family="Arial, sans-serif" font-size="64" font-weight="700">YouTube banner canvas: 2560 x 1440</text>
+  <text x="1280" y="744" fill="#fecdd3" text-anchor="middle" font-family="Arial, sans-serif" font-size="68" font-weight="800">Safe area: 1546 x 423</text>
+  <text x="1280" y="820" fill="#f8fafc" text-anchor="middle" font-family="Arial, sans-serif" font-size="42" font-weight="700">Use this version when your banner design has a dark background.</text>
+  <text x="96" y="1348" fill="#cbd5e1" font-family="Arial, sans-serif" font-size="48" font-weight="700">Outer areas are flexible background and may be cropped on mobile, desktop, or TV.</text>
+</svg>
