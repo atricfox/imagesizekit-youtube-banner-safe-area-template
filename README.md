@@ -38,6 +38,7 @@ The outer area can crop differently across mobile, desktop, and TV surfaces. Kee
 - Social media image sizes guide: https://imagesizekit.com/social-media-image-sizes/
 - Social image pre-publishing checklist: https://imagesizekit.com/check-social-media-image-size-before-upload/
 - Social media image checker: https://imagesizekit.com/social-media-image-checker/
+- Instagram Reel cover size guide: https://imagesizekit.com/instagram-reel-cover-size/
 - Open Graph image size guide: https://imagesizekit.com/open-graph-image-size/
 - Open Graph preview checker: https://imagesizekit.com/open-graph-preview-checker/
 - Image dimension checker: https://imagesizekit.com/image-dimension-checker/
