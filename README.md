@@ -37,11 +37,16 @@ The outer area can crop differently across mobile, desktop, and TV surfaces. Kee
 - Browser banner checker: https://imagesizekit.com/banner-size-checker/
 - Social media image sizes guide: https://imagesizekit.com/social-media-image-sizes/
 - Social image pre-publishing checklist: https://imagesizekit.com/check-social-media-image-size-before-upload/
+- LinkedIn banner size guide: https://imagesizekit.com/linkedin-banner-size/
 - Social media image checker: https://imagesizekit.com/social-media-image-checker/
 - Instagram Reel cover size guide: https://imagesizekit.com/instagram-reel-cover-size/
 - Open Graph image size guide: https://imagesizekit.com/open-graph-image-size/
 - Open Graph preview checker: https://imagesizekit.com/open-graph-preview-checker/
 - Image dimension checker: https://imagesizekit.com/image-dimension-checker/
+
+## Related cross-platform checks
+
+This template is built for YouTube channel art, but wide creator graphics often get reused in other publishing workflows. Use the LinkedIn banner size guide when the same artwork becomes a profile or company Page banner, and use the Open Graph image size guide when the export is really a 1200 x 630 website share image.
 
 ## Privacy note
 
